@@ -98,14 +98,6 @@ Below is the RTL schematic of the proposed Radix-4 Booth Multiplier using RNS:
 
 <p align="left"><b>Figure 1.</b> RTL schematic of the 32-bit Radix-4 Booth Multiplier using Residue Number System (RNS).</p>
 
-
-
-
-> 📌 Place your RTL schematic image in the repository under:
-> ```
-> images/rtl_schematic.png
-> ```
-
 ---
 
 ## 🧪 Verification & Simulation
